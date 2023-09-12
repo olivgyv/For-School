@@ -4,4 +4,5 @@ it is spesifically for UIA'
 Navn: Windows 11 Home
 Versjon: 10.0.22621 bygg 22621
 olivgyv
-git versjon 2.30.1
+git version 2.42.0.windows.2
+    
